@@ -1,5 +1,5 @@
-Ricardo Dallas Film Portfolio — V12 GitHub Pages
+Ricardo Dallas Film Portfolio — V13 Flat GitHub Upload
 
-Upload the CONTENTS of this ZIP to a GitHub repository.
-Then go to Settings > Pages > Deploy from a branch > main > /root.
-The site uses relative paths so it works under username.github.io/repository-name/.
+All image files are intentionally placed at the repository root next to index.html.
+This avoids folder-upload issues in GitHub's web uploader.
+Upload ALL files from this ZIP into the repository root.
